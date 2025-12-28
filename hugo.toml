@@ -2,8 +2,8 @@ baseURL = 'https://blog.gagelara.com/'
 canonifyURLs = true
 relativeURLs = true
 languageCode = 'en-us'
-title = "Gage Lara's Blog"
-theme = 'binario'
+title = "Gage Lara's Daily Notes"
+theme = 'github-style'
 
 [params]
   author = "Gage Lara"
