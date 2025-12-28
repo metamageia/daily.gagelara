@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Gage Lara&#39;s Blog</title>
+    <link>https://blog.gagelara.com/tags/tools/</link>
+    <description>Recent content in Tools on Gage Lara&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2025 15:54:19 -0500</lastBuildDate>
+    <atom:link href="https://blog.gagelara.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything, Everywhere - Fuzzel as a Universal Search Bar</title>
+      <link>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</link>
+      <pubDate>Tue, 15 Jul 2025 15:54:19 -0500</pubDate>
+      <guid>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</guid>
+      <description>&lt;h1 id=&#34;everything-everywhere&#34;&gt;Everything, Everywhere&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fuzzel-as-a-universal-search-bar&#34;&gt;Fuzzel as a Universal Search Bar&lt;/h2&gt;&#xA;&lt;p&gt;This post is less of a tutorial, and more of a short demonstration of a cool tool. This quick little project was inspired by &lt;a href=&#34;https://www.youtube.com/watch?v=_DnNzRaBWUU&#34;&gt;Theo Browne&amp;rsquo;s video&lt;/a&gt; about his &lt;a href=&#34;https://soydev.link/unduck&#34;&gt;custom search engine Unduck&lt;/a&gt;, which functions primarily as an alternative to &lt;a href=&#34;https://duckduckgo.com/bangs&#34;&gt;DuckDuckGo Bangs&lt;/a&gt; - a neat feature that allows you to search countless different websites using one of ~13,562 different &amp;ldquo;Bangs&amp;rdquo; in your search.&lt;/p&gt;&#xA;&lt;p&gt;In his video, Theo demonstrated how setting the browser&amp;rsquo;s default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser&amp;rsquo;s pop-up search bar.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

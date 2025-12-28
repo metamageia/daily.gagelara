@@ -1,0 +1,23 @@
+baseURL = 'https://blog.gagelara.com/'
+canonifyURLs = true
+relativeURLs = true
+languageCode = 'en-us'
+title = "Gage Lara's Blog"
+theme = 'binario'
+
+[params]
+  author = "Gage Lara"
+  description = "NixOS, DevOps, and Cloud enthusiast. I also make music and TTRPG stuff. "
+  github = "metamageia"
+  linkedin = "gage-lara"
+  email = "gageallenlara@gmail.com"
+  url = "https://links.gagelara.com"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  favicon = "/images/github-mark.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/avatar.png"
+  location = "El Dorado, Ks"
+  enableGitalk = false
+  enableSearch = true

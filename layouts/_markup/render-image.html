@@ -1,0 +1,57 @@
+{{- $url := .Destination -}}
+{{- $alt := .PlainText -}}
+{{- $title := .Title -}}
+
+{{- $isYouTube := or (strings.Contains $url "youtube.com/watch") (strings.Contains $url "youtu.be/") (strings.Contains $url "youtube.com/embed/") -}}
+
+{{- if $isYouTube -}}
+  {{- $videoId := "" -}}
+  
+  {{- if strings.Contains $url "youtube.com/watch" -}}
+    {{- $parsedUrl := urls.Parse $url -}}
+    {{- $videoId = $parsedUrl.Query.Get "v" -}}
+  {{- else if strings.Contains $url "youtu.be/" -}}
+    {{- $parsedUrl := urls.Parse $url -}}
+    {{- $videoId = strings.TrimPrefix $parsedUrl.Path "/" -}}
+    {{- $videoId = strings.Split $videoId "?" | first -}}
+  {{- else if strings.Contains $url "youtube.com/embed/" -}}
+    {{- $parsedUrl := urls.Parse $url -}}
+    {{- $videoId = strings.TrimPrefix $parsedUrl.Path "/embed/" -}}
+    {{- $videoId = strings.Split $videoId "?" | first -}}
+  {{- end -}}
+  
+  {{- if $videoId -}}
+    {{/* This div acts as the responsive container */}}
+    <div style="
+      position: relative; 
+      width: 100%; 
+      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      height: 0; 
+      overflow: hidden; 
+      max-width: 560px; /* Optional: Sets a max width for desktop */
+      margin: 1rem auto; /* Centers the container */
+    ">
+      <iframe 
+        src="https://www.youtube.com/embed/{{ $videoId }}" 
+        title="{{ if $title }}{{ $title }}{{ else if $alt }}{{ $alt }}{{ else }}YouTube video player{{ end }}" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-write; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen
+        style="
+          position: absolute; 
+          top: 0; 
+          left: 0; 
+          width: 100%; 
+          height: 100%;
+        "
+      ></iframe>
+    </div>
+  {{- else -}}
+    {{/* Fallback to regular image if video ID extraction fails */}}
+    <img src="{{ $url }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }} />
+  {{- end -}}
+{{- else -}}
+  {{/* Regular image processing */}}
+  <img src="{{ $url }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }} />
+{{- end -}}

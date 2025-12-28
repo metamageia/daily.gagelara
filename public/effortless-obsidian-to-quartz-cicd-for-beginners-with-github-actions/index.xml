@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+  <channel>
+    <title>Effortless Obsidian to Quartz CI&amp;CD for Beginners With GitHub Actions on Gage Lara&#39;s Blog</title>
+    <link>https://localhost:1313/blog.gagelara/effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</link>
+    <description>Recent content in Effortless Obsidian to Quartz CI&amp;CD for Beginners With GitHub Actions on Gage Lara&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2025 15:16:15 -0500</lastBuildDate>
+    <atom:link href="https://localhost:1313/blog.gagelara/effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://localhost:1313/blog.gagelara/effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</link>
+      <pubDate>Tue, 24 Jun 2025 15:16:15 -0500</pubDate>
+      <guid>https://localhost:1313/blog.gagelara/effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</guid>
+      <description>&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[#Introduction]]&lt;/li&gt;&#xA;&lt;li&gt;[[#What is CI/CD?]]&lt;/li&gt;&#xA;&lt;li&gt;[[#Preparing your Obsidian Vault]]&lt;/li&gt;&#xA;&lt;li&gt;[[#Setting up the Quartz Static Site]]&lt;/li&gt;&#xA;&lt;li&gt;[[#Creating the CI/CD Workflow]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[#Quartz Deploy Workflow]]&lt;/li&gt;&#xA;&lt;li&gt;[[#Setting up a PAT &amp;amp; Secrets Management]]&lt;/li&gt;&#xA;&lt;li&gt;[[#Push Quartz Content Workflow]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;[[#Optional Maintaining Multiple Sites from within a Single Vault]]&lt;/li&gt;&#xA;&lt;li&gt;[[#Conclusion]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;For a few years now I&amp;rsquo;ve run my life in &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;. Everything - including research, project management, TTRPG notes, and this post you&amp;rsquo;re reading now - lives in my personal Obsidian vault. I recently refactored this &amp;ldquo;second brain&amp;rdquo; of mine and begin sharing my notes online as an exercise in &amp;ldquo;learning in public&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

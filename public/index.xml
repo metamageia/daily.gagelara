@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gage Lara&#39;s Blog</title>
+    <link>https://blog.gagelara.com/</link>
+    <description>Recent content on Gage Lara&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jul 2025 15:54:19 -0500</lastBuildDate>
+    <atom:link href="https://blog.gagelara.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything, Everywhere - Fuzzel as a Universal Search Bar</title>
+      <link>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</link>
+      <pubDate>Tue, 15 Jul 2025 15:54:19 -0500</pubDate>
+      <guid>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</guid>
+      <description>&lt;h1 id=&#34;everything-everywhere&#34;&gt;Everything, Everywhere&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fuzzel-as-a-universal-search-bar&#34;&gt;Fuzzel as a Universal Search Bar&lt;/h2&gt;&#xA;&lt;p&gt;This post is less of a tutorial, and more of a short demonstration of a cool tool. This quick little project was inspired by &lt;a href=&#34;https://www.youtube.com/watch?v=_DnNzRaBWUU&#34;&gt;Theo Browne&amp;rsquo;s video&lt;/a&gt; about his &lt;a href=&#34;https://soydev.link/unduck&#34;&gt;custom search engine Unduck&lt;/a&gt;, which functions primarily as an alternative to &lt;a href=&#34;https://duckduckgo.com/bangs&#34;&gt;DuckDuckGo Bangs&lt;/a&gt; - a neat feature that allows you to search countless different websites using one of ~13,562 different &amp;ldquo;Bangs&amp;rdquo; in your search.&lt;/p&gt;&#xA;&lt;p&gt;In his video, Theo demonstrated how setting the browser&amp;rsquo;s default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser&amp;rsquo;s pop-up search bar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Cloud Resume Challenge</title>
+      <link>https://blog.gagelara.com/post/02---the-cloud-resume-challenge/</link>
+      <pubDate>Wed, 02 Jul 2025 12:00:00 -0500</pubDate>
+      <guid>https://blog.gagelara.com/post/02---the-cloud-resume-challenge/</guid>
+      <description>&lt;h1 id=&#34;the-cloud-resume-challenge&#34;&gt;The Cloud Resume Challenge&lt;/h1&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;diagram.png&#34; alt=&#34;diagram.png&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the last few months I&amp;rsquo;ve been pouring a lot of my free time into studying and portfolio projects as I work towards beginning a career in cloud engineering &amp;amp; DevOps. Today marks a major milestone, as I&amp;rsquo;ve completed the &lt;a href=&#34;https://cloudresumechallenge.dev/&#34;&gt;Cloud Resume Challenge&lt;/a&gt;. You can view my resume at &lt;a href=&#34;https://gagelara.com&#34;&gt;gagelara.com&lt;/a&gt; and check out &lt;a href=&#34;https://github.com/metamageia/resume.gagelara&#34;&gt;the GitHub Repository here&lt;/a&gt;. In this blog post I&amp;rsquo;ll be talking a little bit about my experience with this project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions</title>
+      <link>https://blog.gagelara.com/post/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</link>
+      <pubDate>Tue, 24 Jun 2025 12:00:00 -0500</pubDate>
+      <guid>https://blog.gagelara.com/post/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</guid>
+      <description>&lt;h1 id=&#34;effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions&#34;&gt;Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;For a few years now I&amp;rsquo;ve run my life in &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;. Everything - including research, project management, TTRPG notes, and this post you&amp;rsquo;re reading now - lives in my personal Obsidian vault. I recently refactored this &amp;ldquo;second brain&amp;rdquo; of mine and begin sharing my notes online as an exercise in &amp;ldquo;learning in public&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a number of tools for sharing your markdown notes online, including Obsidian&amp;rsquo;s own great &lt;a href=&#34;https://obsidian.md/publish&#34;&gt;publish service&lt;/a&gt;. However, given my own enthusiasm for DIY approaches I decided it&amp;rsquo;d be better (and more fun) to host my own solution: enter &lt;a href=&#34;https://quartz.jzhao.xyz/&#34;&gt;Quartz&lt;/a&gt;, a fast and easy to use static site generator purpose built for publishing markdown notes that I could host on GitHub Pages &lt;em&gt;for free&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
