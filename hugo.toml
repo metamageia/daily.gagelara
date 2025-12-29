@@ -1,4 +1,4 @@
-baseURL = 'https://blog.gagelara.com/'
+baseURL = 'https://daily.gagelara.com/'
 canonifyURLs = true
 relativeURLs = true
 languageCode = 'en-us'
