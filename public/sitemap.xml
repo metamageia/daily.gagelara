@@ -1,43 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="https://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.gagelara.com/tags/ai/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-29/</loc>
+    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/tags/blog/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/</loc>
+    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/</loc>
+    <lastmod>2025-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/tags/fuzzel/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-28/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-21/</loc>
+    <lastmod>2025-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/tags/niri/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-16/</loc>
+    <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/tags/nixos/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-14/</loc>
+    <lastmod>2025-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/post/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-09/</loc>
+    <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/tags/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-12-02/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/tags/tools/</loc>
-    <lastmod>2025-07-15T15:54:19-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-11-30/</loc>
+    <lastmod>2025-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/post/02---the-cloud-resume-challenge/</loc>
-    <lastmod>2025-07-02T12:00:00-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-11-29/</loc>
+    <lastmod>2025-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/post/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</loc>
-    <lastmod>2025-06-24T12:00:00-05:00</lastmod>
+    <loc>https://daily.gagelara.com/post/2025-11-28/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.gagelara.com/categories/</loc>
+    <loc>https://daily.gagelara.com/post/2025-07-31/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-25/</loc>
+    <lastmod>2025-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-24/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-23/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-21/</loc>
+    <lastmod>2025-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-20/</loc>
+    <lastmod>2025-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-16/</loc>
+    <lastmod>2025-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-15/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-12/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-11/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-08/</loc>
+    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-06/</loc>
+    <lastmod>2025-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-04/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-03/</loc>
+    <lastmod>2025-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-07-02/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-29/</loc>
+    <lastmod>2025-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-27/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-26/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-25/</loc>
+    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-24/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-23/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-22/</loc>
+    <lastmod>2025-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-21/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-20/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-19/</loc>
+    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-05/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-04/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-03/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/post/2025-06-02/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daily.gagelara.com/categories/</loc>
+  </url><url>
+    <loc>https://daily.gagelara.com/tags/</loc>
   </url>
 </urlset>

@@ -1,33 +1,285 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Gage Lara&#39;s Blog</title>
-    <link>https://blog.gagelara.com/post/</link>
-    <description>Recent content in Posts on Gage Lara&#39;s Blog</description>
+    <title>Posts on Gage Lara&#39;s Daily Notes</title>
+    <link>https://daily.gagelara.com/post/</link>
+    <description>Recent content in Posts on Gage Lara&#39;s Daily Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jul 2025 15:54:19 -0500</lastBuildDate>
-    <atom:link href="https://blog.gagelara.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daily.gagelara.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Everything, Everywhere - Fuzzel as a Universal Search Bar</title>
-      <link>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</link>
-      <pubDate>Tue, 15 Jul 2025 15:54:19 -0500</pubDate>
-      <guid>https://blog.gagelara.com/post/03---everything-everywhere---fuzzel-as-a-universal-search-bar/</guid>
-      <description>&lt;h1 id=&#34;everything-everywhere&#34;&gt;Everything, Everywhere&lt;/h1&gt;&#xA;&lt;h2 id=&#34;fuzzel-as-a-universal-search-bar&#34;&gt;Fuzzel as a Universal Search Bar&lt;/h2&gt;&#xA;&lt;p&gt;This post is less of a tutorial, and more of a short demonstration of a cool tool. This quick little project was inspired by &lt;a href=&#34;https://www.youtube.com/watch?v=_DnNzRaBWUU&#34;&gt;Theo Browne&amp;rsquo;s video&lt;/a&gt; about his &lt;a href=&#34;https://soydev.link/unduck&#34;&gt;custom search engine Unduck&lt;/a&gt;, which functions primarily as an alternative to &lt;a href=&#34;https://duckduckgo.com/bangs&#34;&gt;DuckDuckGo Bangs&lt;/a&gt; - a neat feature that allows you to search countless different websites using one of ~13,562 different &amp;ldquo;Bangs&amp;rdquo; in your search.&lt;/p&gt;&#xA;&lt;p&gt;In his video, Theo demonstrated how setting the browser&amp;rsquo;s default search engine to Unduck allowed him to conveniently use Bangs anywhere - especially with Zen Browser&amp;rsquo;s pop-up search bar.&lt;/p&gt;</description>
+      <title>2025-12-29</title>
+      <link>https://daily.gagelara.com/post/2025-12-29/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-29/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Looking into Quickbase University and getting a Quickbase Bulder account to learn more about building Quickbase apps&#xA;&lt;ul&gt;&#xA;&lt;li&gt;app.brainstorminc.com/home&lt;/li&gt;&#xA;&lt;li&gt;Quickbase certified App Builder&lt;/li&gt;&#xA;&lt;li&gt;[[Quickbase_appbuilder_learningpath.pdf]]&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtube.com/@quickbasejunkie?si=uNhJulgoATTKUICm&#34;&gt;Quickbase Junkie&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.quickbase.com/quickbase-getting-started-guide&#34;&gt;Quickbase Getting Started Guide&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages&#34;&gt;Fix CNAME issues on GitHub pages websites&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>The Cloud Resume Challenge</title>
-      <link>https://blog.gagelara.com/post/02---the-cloud-resume-challenge/</link>
-      <pubDate>Wed, 02 Jul 2025 12:00:00 -0500</pubDate>
-      <guid>https://blog.gagelara.com/post/02---the-cloud-resume-challenge/</guid>
-      <description>&lt;h1 id=&#34;the-cloud-resume-challenge&#34;&gt;The Cloud Resume Challenge&lt;/h1&gt;&#xA;&lt;p&gt;&#xA;  &lt;img src=&#34;diagram.png&#34; alt=&#34;diagram.png&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the last few months I&amp;rsquo;ve been pouring a lot of my free time into studying and portfolio projects as I work towards beginning a career in cloud engineering &amp;amp; DevOps. Today marks a major milestone, as I&amp;rsquo;ve completed the &lt;a href=&#34;https://cloudresumechallenge.dev/&#34;&gt;Cloud Resume Challenge&lt;/a&gt;. You can view my resume at &lt;a href=&#34;https://gagelara.com&#34;&gt;gagelara.com&lt;/a&gt; and check out &lt;a href=&#34;https://github.com/metamageia/resume.gagelara&#34;&gt;the GitHub Repository here&lt;/a&gt;. In this blog post I&amp;rsquo;ll be talking a little bit about my experience with this project.&lt;/p&gt;</description>
+      <title>2025-12-28</title>
+      <link>https://daily.gagelara.com/post/2025-12-28/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-28/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Today I switched the theme of &lt;a href=&#34;http://blog.gagelara.com&#34;&gt;my blog&lt;/a&gt; to a more conventional blog format and plan to use the github theme for my &lt;a href=&#34;http://daily.gagelara.com&#34;&gt;daily blog&lt;/a&gt; instead&lt;/li&gt;&#xA;&lt;li&gt;I also did a bit of work cleaning up what I hope to be the last of the bugs in the 2.1 version of the &lt;a href=&#34;https://metamageia.github.io/Peasant-Generator/&#34;&gt;commoner generator&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;The daily blog is set up, but I&amp;rsquo;ll need to make some changes to auto convert the obsidian links into links to my vault website&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions</title>
-      <link>https://blog.gagelara.com/post/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</link>
-      <pubDate>Tue, 24 Jun 2025 12:00:00 -0500</pubDate>
-      <guid>https://blog.gagelara.com/post/01---effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions/</guid>
-      <description>&lt;h1 id=&#34;effortless-obsidian-to-quartz-cicd-for-beginners-with-github-actions&#34;&gt;Effortless Obsidian to Quartz CI/CD for Beginners with GitHub Actions&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;For a few years now I&amp;rsquo;ve run my life in &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;. Everything - including research, project management, TTRPG notes, and this post you&amp;rsquo;re reading now - lives in my personal Obsidian vault. I recently refactored this &amp;ldquo;second brain&amp;rdquo; of mine and begin sharing my notes online as an exercise in &amp;ldquo;learning in public&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a number of tools for sharing your markdown notes online, including Obsidian&amp;rsquo;s own great &lt;a href=&#34;https://obsidian.md/publish&#34;&gt;publish service&lt;/a&gt;. However, given my own enthusiasm for DIY approaches I decided it&amp;rsquo;d be better (and more fun) to host my own solution: enter &lt;a href=&#34;https://quartz.jzhao.xyz/&#34;&gt;Quartz&lt;/a&gt;, a fast and easy to use static site generator purpose built for publishing markdown notes that I could host on GitHub Pages &lt;em&gt;for free&lt;/em&gt;.&lt;/p&gt;</description>
+      <title>2025-12-21</title>
+      <link>https://daily.gagelara.com/post/2025-12-21/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-21/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Very interested in Nick Milo&amp;rsquo;s linear calendar idea&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/j64YOie4bIw?si=KHj_M8a5APVmu9f1&#34;&gt;https://youtu.be/j64YOie4bIw?si=KHj_M8a5APVmu9f1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://app.anucal.com/&#34;&gt;https://app.anucal.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-12-16</title>
+      <link>https://daily.gagelara.com/post/2025-12-16/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-16/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Tinkered with the Shape Builder Tool and Vector Booleans (Pathfinder) in Affinity Studio Vector&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shape Builder is basically identical to Illustrator&amp;rsquo;s&lt;/li&gt;&#xA;&lt;li&gt;Affinity&amp;rsquo;s vector booleans are almost identical to illustrator&amp;rsquo;s, though it&amp;rsquo;s missing a few Pathfinder options like Crop, Trim, Outline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-12-14</title>
+      <link>https://daily.gagelara.com/post/2025-12-14/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-14/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Worked a bit on [[Hexcrawl Plugin Development]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rebooting the project and getting it to a state I can publish it in&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Did some ideation / brainstorming on [[Usurper]], which will be an extension of [[Dark Fantasy Character Playbook for MOSAIC Strict]] into a full system.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Derived from a lot of the experiments I did with [[Solo &amp;amp; Judge-less Rules for Trespasser]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-12-09</title>
+      <link>https://daily.gagelara.com/post/2025-12-09/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-09/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Switched back to KDE Plasma for better Affinity experience&lt;/li&gt;&#xA;&lt;li&gt;Installing Bitwig to experiment with&#xA;&lt;ul&gt;&#xA;&lt;li&gt;So far it seems intuitive enough, though I need to get more familiar with the core plugins available&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-12-02</title>
+      <link>https://daily.gagelara.com/post/2025-12-02/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-12-02/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Yesterday did some more prompt work on [[Thousand Year Old Grimoire]]. Using my play to prompt the prompts has been surprisingly effective&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-11-30</title>
+      <link>https://daily.gagelara.com/post/2025-11-30/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-11-30/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Started on two game concepts:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[Many Mini Magic Manuscripts (Tiny Grimoires)]]&lt;/li&gt;&#xA;&lt;li&gt;[[Thousand Year Old Grimoire]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Did some physical notes / brainstorming on a usurper/adjacent game&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Had some interesting insights on applying the [[Depthcrawl]] structure to RPG calendar / event systems&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-11-29</title>
+      <link>https://daily.gagelara.com/post/2025-11-29/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-11-29/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Spent some time cleaning up [[Theurgist - Trespasser]] and sharing it to the discord, will develop it further after 2.1&lt;/li&gt;&#xA;&lt;li&gt;Enjoyed a low energy day of relaxation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-11-28</title>
+      <link>https://daily.gagelara.com/post/2025-11-28/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-11-28/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Going to reestablish my old digital PKM and productivity workflows&lt;/li&gt;&#xA;&lt;li&gt;Website Changes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Considering redoing the theme for blog.gagelara.com and using the github style theme for a daily microblog from these daily notes, possibly at daily.gagelara.com.&lt;/li&gt;&#xA;&lt;li&gt;Also fixed a DNS issue with links.gagelara.com that&amp;rsquo;s been around for awhile unnoticed.&lt;/li&gt;&#xA;&lt;li&gt;Going to redirect gagelara.com to a portfolio website at a later date&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Began working on composing my notes on [[Preflighting (Print)]] and general design / print terminology to collect and demonstrate understanding.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-31</title>
+      <link>https://daily.gagelara.com/post/2025-07-31/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-31/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Made obsidian vault repo public&lt;/li&gt;&#xA;&lt;li&gt;Switched DNS from Route53 to Cloudflare&lt;/li&gt;&#xA;&lt;li&gt;Fixing Sops&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-25</title>
+      <link>https://daily.gagelara.com/post/2025-07-25/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-25/</guid>
+      <description>&lt;p&gt;[[OCI DevOps]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-24</title>
+      <link>https://daily.gagelara.com/post/2025-07-24/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-24/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[OCI Notes]] - Completed the Foundations Course and got my Certificate&lt;/li&gt;&#xA;&lt;li&gt;[[OCI DevOps]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-23</title>
+      <link>https://daily.gagelara.com/post/2025-07-23/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-23/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Sopsnix w rclone secrets&lt;/li&gt;&#xA;&lt;li&gt;wire guard vpn&lt;/li&gt;&#xA;&lt;li&gt;cluster config&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-21</title>
+      <link>https://daily.gagelara.com/post/2025-07-21/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-21/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Going to work more on [[OCI Notes]], close to finishing the foundations course.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will likely migrate Auriga to Oracle to take advantage of the always-free tier.&lt;/li&gt;&#xA;&lt;li&gt;Might set up home-assistant&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Considering making the blog more of a micro-blog and posting my thoughts far more frequently.&lt;/li&gt;&#xA;&lt;li&gt;Going to rethink my project management workflow&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reinstalled [[Kanban Obsidian Plugin]]&lt;/li&gt;&#xA;&lt;li&gt;[[User Stories]] [[Epics (PM)]] [[Initiatives (PM)]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;[[Trunk-Based Development (TBD)]]&lt;/li&gt;&#xA;&lt;li&gt;[[DevOps]] [[Agile]]&lt;/li&gt;&#xA;&lt;li&gt;[[Terraform Best Practices]]&lt;/li&gt;&#xA;&lt;li&gt;A bit frustrated with OCI&amp;rsquo;s host capacity issues&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-20</title>
+      <link>https://daily.gagelara.com/post/2025-07-20/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-20/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[OCI Notes]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-16</title>
+      <link>https://daily.gagelara.com/post/2025-07-16/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-16/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Content Research and Schedule&lt;/li&gt;&#xA;&lt;li&gt;[[Helm]] [[Wallabag]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Set up ingress/nodeport&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fixed css issues&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;[[AWS Lightsail]] for WP demo&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Set up Site24x7 Real User Monitoring dashboard and plugin integration&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Response time, page views, device analytics, errors, sessions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Upgraded php&lt;/li&gt;&#xA;&lt;li&gt;WP Health Check &amp;amp; Troubleshooting&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Went through all the steps to improve performance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Akismet Anti-spam&lt;/li&gt;&#xA;&lt;li&gt;Debug bar - shows query, cache, and other helpful debugging information to the admin bar&lt;/li&gt;&#xA;&lt;li&gt;Query Monitor - developer tools panel for WordPress and WooCommerce. It enables debugging of database queries, PHP errors, hooks and actions, block editor blocks, enqueued scripts and stylesheets, HTTP API calls, and more.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-15</title>
+      <link>https://daily.gagelara.com/post/2025-07-15/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-15/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Theo&amp;rsquo;s video about search and DuckDuckGo&amp;rsquo;s Bangs feature.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_DnNzRaBWUU&#34;&gt;https://www.youtube.com/watch?v=_DnNzRaBWUU&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://soydev.link/unduck&#34;&gt;https://soydev.link/unduck&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://t3.chat/&#34;&gt;https://t3.chat/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Made my own Bash script that launches Fuzzel in dmenu mode and runs a websearch, allowing me to accomplish this from anywhere&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[metamageia/post/03 - Everything, Everywhere - Fuzzel as a Universal Search Bar/index]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Learned about Hugo&amp;rsquo;s &lt;a href=&#34;https://gohugo.io/render-hooks/images/&#34;&gt;Image Render Hooks&lt;/a&gt; and added a template for handling embedded YouTube videos from Obsidian markdown.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-12</title>
+      <link>https://daily.gagelara.com/post/2025-07-12/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-12/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;GitHub launched their new &lt;a href=&#34;https://learn.github.com/certifications&#34;&gt;certifications program&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-11</title>
+      <link>https://daily.gagelara.com/post/2025-07-11/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-11/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[OCI Notes]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-08</title>
+      <link>https://daily.gagelara.com/post/2025-07-08/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-08/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Been too busy with family to work on much&lt;/li&gt;&#xA;&lt;li&gt;Making more plans for [[My Cloud Homelab Project]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-06</title>
+      <link>https://daily.gagelara.com/post/2025-07-06/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-06/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Made a new live [[NixOS]] USB to use with my laptop until its can be repaired&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-04</title>
+      <link>https://daily.gagelara.com/post/2025-07-04/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-04/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Working on the Linux Foundation [Introduction to Kubernetes (LFS158)](&lt;a href=&#34;https://trainingportal.linuxfoundation.org/learn/course/introduction-to-kubernetes/course-introduction-1/course-information?courseId=4c5857f5-522e-4881-a563-685f211dded4&#34;&gt;Introduction to Kubernetes (LFS158) - Course Information | The Linux Foundation&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;[[My Cloud Homelab Project]]&lt;/li&gt;&#xA;&lt;li&gt;Learning about [[Talos Linux]] for [[Kubernetes (K8s)|Kubernetes]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Install Talos ctl and Kube ctl&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;[[Digital Ocean]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-03</title>
+      <link>https://daily.gagelara.com/post/2025-07-03/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-03/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Working on [[My Cloud Homelab Project]]&lt;/li&gt;&#xA;&lt;li&gt;Taking some notes on cloud networking&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[Classless Inter-Domain Routing (CIDR)]]&lt;/li&gt;&#xA;&lt;li&gt;[[Subnet]]&lt;/li&gt;&#xA;&lt;li&gt;[[Virtual Private Cloud (VPC)]] [[AWS VPC]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-07-02</title>
+      <link>https://daily.gagelara.com/post/2025-07-02/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-07-02/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Completed [[The Cloud Resume Challenge (Notes)]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wrote and published a &lt;a href=&#34;https://blog.gagelara.com/post/the-cloud-resume-challenge/&#34;&gt;blog post about my experience&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-29</title>
+      <link>https://daily.gagelara.com/post/2025-06-29/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-29/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Been busy with family responsibilies, but getting back to working [[My Cloud Homelab Project]] and [[The Cloud Resume Challenge (Notes)]]&lt;/li&gt;&#xA;&lt;li&gt;Checking out direnv and nix-direnv for smoother development&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://determinate.systems/posts/nix-direnv/&#34;&gt;https://determinate.systems/posts/nix-direnv/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-27</title>
+      <link>https://daily.gagelara.com/post/2025-06-27/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-27/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;The plan today is to work more on both [[My Cloud Homelab Project]] and [[The Cloud Resume Challenge (Notes)]].&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Homelab Goal: Deploy Jellyfin on Homelab with k3s.&lt;/li&gt;&#xA;&lt;li&gt;Resume Goals: Terraform Route53, CICD Resume Front End Repo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-26</title>
+      <link>https://daily.gagelara.com/post/2025-06-26/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-26/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Gonna give a proper read to this later: &lt;a href=&#34;https://justinas.org/nixos-in-the-cloud-step-by-step-part-1&#34;&gt;https://justinas.org/nixos-in-the-cloud-step-by-step-part-1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Going to work refactoring the homelab today [[My Cloud Homelab Project]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Got the basic Terraform + Nixos Digital Ocean workflow setup with a custom image. Looking forward to building it out. [[Terraform]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-25</title>
+      <link>https://daily.gagelara.com/post/2025-06-25/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-25/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Took a brief detour from [[The Cloud Resume Challenge (Notes)]]  to work on my new &lt;a href=&#34;https://blog.gagelara.com&#34;&gt;blog&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Became a lot more familiar with [[Hugo]], DNS &amp;amp; custom domain setup&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Interested in setting up a LinkTree like website too&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Got hyper-fixated on it and ended up working on it till 1:50 am as well as setting up my subdomains&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://links.gagelara.com/&#34;&gt;https://links.gagelara.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://notes.gagelara.com/&#34;&gt;https://notes.gagelara.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://blog.gagelara.com/&#34;&gt;https://blog.gagelara.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Going to start learning [[Terraform]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Successfully ran my first couple Terraform tests, spinning up some [[AWS S3]] buckets, a Budget, and a [[AWS DynamoDB]].&lt;/li&gt;&#xA;&lt;li&gt;Also integrated it into a GitOps workflow, automatically applying my Terraform configuration to AWS when pushing to GitHub&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Interested in the [[Breadcrumbs Obsidian Plugin]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-24</title>
+      <link>https://daily.gagelara.com/post/2025-06-24/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-24/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Was up pretty late last night figuring out my problem setting up a static site for [[The Cloud Resume Challenge (Notes)]]. Turns out the issue was an obvious oversight, as I kept forgetting to set the root object in my [[AWS CloudFront]] distribution.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Moved on to domain registration and setting up a [[AWS Route 53]] Hosted Zone.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Looking at moving my blog to a Hugo Website&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-23</title>
+      <link>https://daily.gagelara.com/post/2025-06-23/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-23/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Started working on [[The Cloud Resume Challenge (Notes)]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-22</title>
+      <link>https://daily.gagelara.com/post/2025-06-22/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-22/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;[[NixOs Anywhere]] for setting up NixOS on VPS platforms&lt;/li&gt;&#xA;&lt;li&gt;Making some notes on [[Git]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[FluxCD]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Considering solutions for version controlling music projects, interested in making music production public and visible.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Also interested in setting up previews for projects on a webpage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Going to start plans for new homeserver setup from scratch. Need to plan out exactly what I&amp;rsquo;d like to set up on it.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[K3s]]. [[Namespace (K8s)]], [[Helm]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Published my CI/CD post over on the newly made &lt;a href=&#34;https://metamageia.github.io/blog-metamageia/&#34;&gt;Blog Metamageia&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-21</title>
+      <link>https://daily.gagelara.com/post/2025-06-21/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-21/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Learning a little bit about [[Terraform]], [[Terraform-NixOS]], and [[Terranix]]&lt;/li&gt;&#xA;&lt;li&gt;Going to make notes on [[Kubernetes (K8s)]] and [[STAR Format]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Set up Kubernetes Homelab&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Downloaded GitStync android&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Decided it wasn&amp;rsquo;t quite what I wanted and switched to using the [[Git Obsidian Plugin]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;interested in checking out &lt;a href=&#34;https://github.com/pfassina/sopswarden&#34;&gt;SopsWarden&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Enjoyed Stars Without Number [[S0.5 - Establishing The Somnambulist]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-20</title>
+      <link>https://daily.gagelara.com/post/2025-06-20/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-20/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Added a basic index.md test to my vault CICD workflow for [[metamageia/post/01 - Effortless Obsidian to Quartz CI&amp;amp;CD for Beginners with GitHub Actions/index]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spend most of the free time I had today working on the tutorial, with screenshots and example vaults. It&amp;rsquo;s close to being finished.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-19</title>
+      <link>https://daily.gagelara.com/post/2025-06-19/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-19/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Lost some data after my main laptop stopped working, taking this opportunity to rework my vault and start some of my configuration over with a clean slate.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reinstalled the [[Obsidian Vault Changelog Plugin]] to get the [[changelog]] working again, got things properly synced via Syncthing and Github.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Learning about [[Github Actions]], specifically interested in automating changes to my Quartz repos.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Creating an automated workflow for pushing vault contents to quartz repo, building the site, and deploying.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create [[Personal Access Token (PAT)]] and add it to repos&lt;/li&gt;&#xA;&lt;li&gt;Set up action to checkout, remove any unwanted files, then push the source folder to the destination&lt;/li&gt;&#xA;&lt;li&gt;When using the default Quartz action,  sites will automatically build and deploy, allowing you to manage the content of multiple quartz sites from a single repo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Consider doing a write up of the process as a note. [[metamageia/post/01 - Effortless Obsidian to Quartz CI&amp;amp;CD for Beginners with GitHub Actions/index]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Set up [[Calibre]] on the homeserver and [[Librera Reader]] on my phone, syncing the library between my devices using Syncthing for now until I decide on a permanent solution.&lt;/li&gt;&#xA;&lt;li&gt;Jumped back into Duolingo, starting Spanish lessons alongside my betrothed.&lt;/li&gt;&#xA;&lt;li&gt;Made the initial character note for my Stars Without Number PC [[Ivan Kurnikov]].&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-05</title>
+      <link>https://daily.gagelara.com/post/2025-06-05/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-05/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Finish making notes from [[2025-06-04]]&lt;/li&gt;&#xA;&lt;li&gt;After watching the video on [[Mentats]] from yesterday, I was recommended &lt;a href=&#34;https://www.youtube.com/watch?v=ijm66YXxWfQ&#34;&gt;this video&lt;/a&gt; on memory and &amp;ldquo;how to think like a Mentat&amp;rdquo;. A bit hyperbolic, but compelling.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Brought up the idea of [[Interleaving]], an approach to taking break that involves naturally rotating between productive reading based on topic exhaustion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Interested in trying out [[Jouve-Cerebrals Test of Induction (JCTI)]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website: &lt;a href=&#34;https://www.cogn-iq.org/jcti-iq-inductive-reasoning-test.php&#34;&gt;https://www.cogn-iq.org/jcti-iq-inductive-reasoning-test.php&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Also the [[Comprehensive Adult Intelligence Test (CAIT)]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website: &lt;a href=&#34;https://cognitivemetrics.com/test/CAIT&#34;&gt;https://cognitivemetrics.com/test/CAIT&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;3-in-1 Memory Test&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Website: &lt;a href=&#34;https://practicalpie.com/free-memory-test/&#34;&gt;https://practicalpie.com/free-memory-test/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Makes notes on [[N-Back]], [[Spaced Repetition]], and [[Rapid Serial Visual Presentation]]&lt;/li&gt;&#xA;&lt;li&gt;Discussed [[Rating of Perceived Exertion]] with Terry.&lt;/li&gt;&#xA;&lt;li&gt;Learning a bit about how to use [[Nix Shell]] for my [[Quartz]] project&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wrote what will become the Home page for the site [[index.md|The Metamageia Vault]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Want to do more research into [[Polyrythms]]&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Resources: &lt;a href=&#34;https://www.fiveoverthree.com/&#34;&gt;https://www.fiveoverthree.com/&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=0ENoLEnWXfA&#34;&gt;Video by Like it or Not&lt;/a&gt;, &lt;a href=&#34;https://www.youtube.com/watch?v=htbRx2jgF-E&#34;&gt;Video by Andrew Huang&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Learned about the [[Nix User Repository (NUR)]]. Not sure how I missed it until today&lt;/li&gt;&#xA;&lt;li&gt;Successfully set set up the quartz website: &lt;a href=&#34;https://metamageia.github.io/The-Metamageia-Vault/&#34;&gt;https://metamageia.github.io/The-Metamageia-Vault/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-04</title>
+      <link>https://daily.gagelara.com/post/2025-06-04/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-04/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Learned about [[Compose2nix]], a tool for converting [[Docker Compose]] configurations into a [[NixOS]] config. ([[Docker]])&lt;/li&gt;&#xA;&lt;li&gt;Encountered [[NixOS Rebuild Lock Issue]] and found the fix.&lt;/li&gt;&#xA;&lt;li&gt;Watched an &lt;a href=&#34;https://www.youtube.com/watch?v=ciohgoSKv_U&#34;&gt;interesting video&lt;/a&gt; about [[Mentats]] from [[Dune]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-03</title>
+      <link>https://daily.gagelara.com/post/2025-06-03/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-03/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Interested in exploring [[Typst]] for markup formatting&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/typst/typst&#34;&gt;https://github.com/typst/typst&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Typst for TTRPGs: &lt;a href=&#34;https://discourse.rpgcauldron.com/t/typst-for-ttrpgs/1640&#34;&gt;https://discourse.rpgcauldron.com/t/typst-for-ttrpgs/1640&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025-06-02</title>
+      <link>https://daily.gagelara.com/post/2025-06-02/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://daily.gagelara.com/post/2025-06-02/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;I set up the [[BRAT Obsidian Plugin]] so that I could install [[Nicole van der Hoeven]]&amp;rsquo;s &lt;a href=&#34;https://github.com/nicolevanderhoeven/obsidian-vault-changelog&#34;&gt;variant&lt;/a&gt; of the [[Obsidian Vault Changelog Plugin]].&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Also set up a [[changelog]] for the vault.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Recently set up [[ReaPack]] and [[SWS Extensions]] in [[Reaper]] so I could set up [[Reableton]] as part of my transition between DAWs.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I needed to install them directly into the reaper .config folder, with some guidance from &lt;a href=&#34;https://discourse.nixos.org/t/reaper-with-reapack/41924&#34;&gt;this discussion&lt;/a&gt; on the [[NixOS]] forums.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Started reading [[The Phenomenology of Aesthetic Experience by Mikel Dufrenne|The Phenomenology of Aesthetic Experience]] by [[Mikel Dufrenne]]. Spent some time contemplating some of the translator&amp;rsquo;s notes in the forward regarding Dufrenne&amp;rsquo;s distinction between the Aesthetic Object and the Work of Art.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Watched an interesting &lt;a href=&#34;https://youtu.be/iaZe3AlrCnI?si=1c4ebFIF0O221r2W&#34;&gt;video by John Logan&lt;/a&gt; on the topic.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Revisiting &lt;a href=&#34;https://youtu.be/IX3mdQGFWeE?si=lHvHqghXMjX372sY&#34;&gt;this lecture&lt;/a&gt; on [[Phenomenology of Agency]] by Tim Bayne&lt;/li&gt;&#xA;&lt;li&gt;Exploring the possibility of contributing music &amp;amp; audio to [[Endless Sky]]. There&amp;rsquo;s a &lt;a href=&#34;https://discord.com/channels/251118043411775489/989659299645100112/1366021664717930587&#34;&gt;Discord thread&lt;/a&gt; discussing some of the specifics of contributing.&lt;/li&gt;&#xA;&lt;li&gt;Switched to [[Fossify Calendar]] after my existing calendar app started giving me grief.&lt;/li&gt;&#xA;&lt;li&gt;In a conversation with &amp;ldquo;Christopher of the Cross&amp;rdquo; on the Man Alone Discord server, I laid out a working definition of the term [[Agent]] as I make sense of it in my own metaphysical framework.&lt;/li&gt;&#xA;&lt;li&gt;Added my Obsidian vault to &lt;a href=&#34;https://github.com/metamageia/Metamageia-Obsidian-Vault&#34;&gt;Github&lt;/a&gt;, considering options for static site generation such as [[Quartz]]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
